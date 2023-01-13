@@ -1,8 +1,6 @@
 # IoTNetworkingProject
 
 Project Name: Network Text Message Trigger
-Student Name: Caroline Daly 
-Student ID: 20099885
 
 Project Description: Trigger Text Message to user when Phone IP is detected on home network
 
@@ -11,7 +9,6 @@ Tools, Technologies and Equipment:
 2. Twilio Account: https://www.twilio.com/docs/sms/send-messages
 3. iPhone
 4. Home Network
-5. YouTube Demo: https://youtu.be/RdjjRO9fTyY
 
 
 Requirements: 
