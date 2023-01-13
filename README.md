@@ -11,7 +11,7 @@ Tools, Technologies and Equipment:
 2. Twilio Account: https://www.twilio.com/docs/sms/send-messages
 3. iPhone
 4. Home Network
-5. YouTube Demo: 
+5. YouTube Demo: https://youtu.be/RdjjRO9fTyY
 
 
 Requirements: 
@@ -30,10 +30,7 @@ Project Resources:
 3. https://docs.python-guide.org/dev/virtualenvs/#lower-level-virtualenv
 4. https://raspberrypi-guide.github.io/programming/create-python-virtual-environment
 5. https://www.youtube.com/watch?v=WIOpNuQc068
-
-Defects:
-
-Future Enhancements: 
+6. https://www.youtube.com/watch?v=Oi37lg_ciJ8
 
 
 
