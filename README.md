@@ -31,4 +31,9 @@ Project Resources:
 4. https://raspberrypi-guide.github.io/programming/create-python-virtual-environment
 5. https://www.youtube.com/watch?v=WIOpNuQc068
 
+Defects:
+
+Future Enhancements: 
+
+
 
